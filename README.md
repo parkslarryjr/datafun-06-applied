@@ -210,3 +210,9 @@ Additional instructions, terms, and project notes:
 ## License
 
 [MIT](./LICENSE)
+
+
+## Project Modification
+
+For this project, I modified the scatter plot used in the exploratory data analysis. I changed the x-axis from GDP to population and the y-axis from CO2 emissions to CO2 per capita. This allowed me to explore a different relationship in the dataset and compare how the visualization changed after the modification. You can see that graph below
+![Provide a Useful Caption](./docs/images/Figure_4.png)

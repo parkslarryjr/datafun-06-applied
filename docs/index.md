@@ -22,3 +22,15 @@ to get these projects running on your machine.
 The API page is not always easy to read at first,
 but it becomes useful as you get more comfortable with project structure,
 modules, functions, and docstrings.
+
+## Custom Project
+
+### Basis
+
+I started with the Module 6 EDA example that uses a subset of the Our World in Data CO2 dataset. The dataset includes information about CO2 emissions, CO2 per capita, population, GDP, and year for several countries. I used the example notebook as a guide for loading data, checking data quality, calculating statistics, and creating visualizations.
+
+### Phase 4 Modifications
+
+For my Phase 4 modification, I changed the scatter plot variables. I changed the x-axis from GDP to population and the y-axis from CO2 emissions to CO2 per capita. I chose this modification because it was a simple change that allowed me to explore a different relationship in the data.
+
+I verified that the change worked by running the notebook again and checking the updated scatter plot. The chart labels changed to Population and CO2 per capita, and the graph showed a different pattern than the original version.
