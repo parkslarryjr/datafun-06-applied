@@ -34,3 +34,18 @@ I started with the Module 6 EDA example that uses a subset of the Our World in D
 For my Phase 4 modification, I changed the scatter plot variables. I changed the x-axis from GDP to population and the y-axis from CO2 emissions to CO2 per capita. I chose this modification because it was a simple change that allowed me to explore a different relationship in the data.
 
 I verified that the change worked by running the notebook again and checking the updated scatter plot. The chart labels changed to Population and CO2 per capita, and the graph showed a different pattern than the original version.
+
+
+### Phase 5 Custom Project Reflection
+
+For this custom project, I adapted the original exploratory data analysis notebook to work with an airline safety dataset instead of the example dataset. I modified the structure to match the new data, including updating the file path, grouping column, and numeric variables so the analysis focused on airline safety metrics such as incidents and fatalities across two time periods (1985–1999 and 2000–2014).
+
+I changed the scatter plot variables to examine the relationship between available seat kilometers and incidents, and I updated the summary statistics and correlation analysis to reflect the airline safety columns. I also replaced the example dataset with airline-safety.csv and adjusted the selected numeric columns to match the structure of that dataset.
+
+The results showed clear patterns in the data, including a strong relationship between certain incident-related variables and differences between time periods. The correlation matrix helped identify which variables were most closely related, and the side-by-side box plot comparison of fatalities across the two time periods provided a clearer understanding of how airline safety outcomes changed over time.
+
+One of the main things I learned was that not all visualization techniques work equally well for every dataset. For example, grouping airlines in a box plot was not very effective because each airline only had one observation per variable, which made the visualization misleading. I also learned how important it is to choose appropriate variables for each chart type to ensure the results are interpretable.
+
+Overall, I exercised a wide range of skills from the module, including loading and cleaning data, selecting features, computing descriptive statistics, creating correlation matrices, and building multiple types of visualizations using Seaborn and Matplotlib. I also practiced debugging issues related to plotting and data structure mismatches.
+
+In the future, these techniques could be applied to many real-world problems such as transportation safety analysis, business performance tracking, or any domain where understanding relationships between variables and trends over time is important. This project strengthened my ability to explore datasets systematically and choose appropriate visualizations based on data structure.

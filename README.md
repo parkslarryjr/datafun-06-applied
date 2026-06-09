@@ -216,3 +216,15 @@ Additional instructions, terms, and project notes:
 
 For this project, I modified the scatter plot used in the exploratory data analysis. I changed the x-axis from GDP to population and the y-axis from CO2 emissions to CO2 per capita. This allowed me to explore a different relationship in the dataset and compare how the visualization changed after the modification. You can see that graph below
 ![Provide a Useful Caption](./docs/images/Figure_4.png)
+
+
+### Custom Project
+
+For this project, I modified the original exploratory data analysis notebook by replacing the example dataset with an airline safety dataset. I updated the grouping column to use airline names and changed the numeric variables to focus on safety metrics such as incidents and fatalities across two time periods (1985–1999 and 2000–2014).
+
+I also modified the scatter plot variables to explore the relationship between available seat kilometers per week and incidents in the 2000–2014 time period. In addition, I updated the summary statistics, correlation matrix, and visualizations to reflect the airline safety data instead of the original dataset.
+
+You can see the updated Heat Map, scatter plot,  and box plot below.
+![Provide a Useful Caption](./docs/images/Figure_5.png)
+![Provide a Useful Caption](./docs/images/Figure_6.png)
+![Provide a Useful Caption](./docs/images/Figure_7.png)
