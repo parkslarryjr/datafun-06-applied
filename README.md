@@ -229,6 +229,11 @@ You can see the updated Heat Map, scatter plot,  and box plot below.
 ![Provide a Useful Caption](./docs/images/Figure_6.png)
 ![Provide a Useful Caption](./docs/images/Figure_7.png)
 
+The analysis showed that incidents and fatalities are generally higher in the 1985–1999 period compared to 2000–2014, suggesting an overall improvement in airline safety over time. The correlation matrix indicated a moderate relationship between incidents and fatalities, meaning airlines with more incidents tend to also have more fatalities. However, the relationship between total flight volume (available seat kilometers) and safety outcomes was weaker than expected. The box plot comparison also showed that most airlines have relatively low fatality counts in the more recent time period, with only a few airlines contributing to higher values.
+
+### Custom Results
+The analysis showed that incidents and fatalities are generally higher in the 1985–1999 period compared to 2000–2014, suggesting an overall improvement in airline safety over time. The correlation matrix indicated a moderate relationship between incidents and fatalities, meaning airlines with more incidents tend to also have more fatalities. However, the relationship between total flight volume (available seat kilometers) and safety outcomes was weaker than expected. The box plot comparison also showed that most airlines have relatively low fatality counts in the more recent time period, with only a few airlines contributing to higher values.
+
 ### Custom Directions to run the New Project
 1) Open the eda_parks_custom_project.ipynb notebook in VS Code or Jupyter.
 2) Verify that the airline-safety.csv file is located in the data/raw folder.
