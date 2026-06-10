@@ -231,7 +231,7 @@ You can see the updated Heat Map, scatter plot,  and box plot below.
 
 ### Custom Directions to run the New Project
 1) Open the eda_parks_custom_project.ipynb notebook in VS Code or Jupyter.
-2) erify that the airline-safety.csv file is located in the data/raw folder.
+2) Verify that the airline-safety.csv file is located in the data/raw folder.
 3) Run all notebook cells from top to bottom to reproduce the analysis.
 4) Review the generated visualizations, including the correlation heat map, scatter plot, and box plot comparing fatalities across time periods.
 5) Examine the summary statistics and correlation matrix to identify relationships between airline incidents, fatalities, and passenger traffic.
